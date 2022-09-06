@@ -2,7 +2,6 @@ import os
 import requests
 import aiohttp
 import youtube_dl
-import yt_dlp
 
 from pyrogram import filters
 from Ankit import pbot
